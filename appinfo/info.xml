@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<info>
+    <id>android_service</id>
+    <name>Android C2DM service</name>
+    <description>Owncloud implementation for Android Cloud to Device Messaging framework</description>
+    <licence>Apache 2.0</licence>
+    <author>Lukas Hetzenecker</author>
+    <require>4.91</require>
+    <shipped>false</shipped>
+</info>
