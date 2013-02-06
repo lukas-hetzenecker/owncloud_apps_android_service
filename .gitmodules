@@ -1,0 +1,3 @@
+[submodule "3rdparty/c2dm-php"]
+	path = 3rdparty/c2dm-php
+	url = https://github.com/lytsing/c2dm-php.git
