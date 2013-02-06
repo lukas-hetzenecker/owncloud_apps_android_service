@@ -1,3 +1,3 @@
 [submodule "3rdparty/c2dm-php"]
 	path = 3rdparty/c2dm-php
-	url = https://github.com/lukas-hetzenecker/c2dm-php.git
+	url = https://github.com/lukas-hetzenecker/owncloud_3rdparty_c2dm-php.git
